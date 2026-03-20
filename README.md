@@ -1,4 +1,4 @@
-📱 ##Jetpack Compose UI Practice
+📱 Jetpack Compose UI Practice
 
 This project contains a collection of commonly used UI components built using Jetpack Compose.
 The goal of this repository is to practice and demonstrate modern Android UI development patterns.
